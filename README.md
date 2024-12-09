@@ -18,7 +18,7 @@ A [GitHub Social Network Dataset](./data/musae_git_edges.csv), with **37,700 nod
 
 To summarize, this project explored the dynamics of social connections in a meaningful way, and by applying machine learning to graph-based data, it lead to some influential insights and information.
 
-_Note: More info may get added after report works are carried out_
+_For a comprehensive report of the Project, please refer to the [Project Report](./Suryakumar-Selvakumar-SNI-Final-Project-Report.pdf) document._
 
 ## Instructions to Run the Project
 
